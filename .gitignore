@@ -211,6 +211,3 @@ crashlytics-build.properties
 fabric.properties
 .idea/
 npm-debug.log
-parent.iml
-pom.xml
-src/
